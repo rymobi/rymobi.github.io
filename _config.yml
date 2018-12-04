@@ -1,24 +1,28 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            RY-墨彬 の 个人博客
+description:      此乃赵瑞阳的个人博客，瓦利瓦利吼(｢･ω･)｢嘿
+
+
+disqus_shortname: 觅到你是一种幸福
 reading_time:     true
-words_per_minute: 200
+words_per_minute: 50
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
+#您的网站域名在这里 (如: https://mmistakes.github.io, http://yourdomain.com 等)
+#在本地测试时, 留空或使用 http://localhost:4000
 url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           赵瑞阳
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
+  bio:            "本科在校大学生，热爱计算机，喜欢研究好玩并且具有科技感的东西，正努力朝着极客的目标前进着！"
+  email:          876551406@qq.com
+  # Social networking links used in footer. Update and remove as you like. //页脚中使用的社交网络链接。根据需要更新和删除。
   twitter:        
   facebook:       
-  github:         
+  github:         rymobi
   stackexchange:  
-  linkedin:       
+  linkedin:       u/2670714541?from=myfollow_all&is_all=1
   instagram:      
   flickr:         
   tumblr:         
@@ -28,14 +32,14 @@ owner:
 # Background image to be tiled on all pages
 background: 
 
-# Analytics and webmaster tools stuff goes here
+# Analytics and webmaster tools stuff goes here  //要在所有页面上平铺的背景图像
 google_analytics:   
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Shanghai
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
@@ -51,7 +55,7 @@ sass:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
-# Amount of post to show on home page
+# Amount of post to show on home page  //要在主页上显示的帖子数量
 paginate: 5
 
 kramdown:

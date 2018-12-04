@@ -1,13 +1,13 @@
 ---
 layout: post-index
-title: Latest Posts
-description: "Describe this nonsense."
+title: 最新 文章
+description: "展示前几篇最新的文章."
 tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
 image:
   feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  credit: 
+  creditlink: 
 ---
 
 {% for post in paginator.posts %}
@@ -33,7 +33,7 @@ image:
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
-  <div class="entry-content">
+  <div class="entry-content" style="height:100px; overflow:hidden;"> <!-- 设置了高度，超出不显示 -->
     {{ post.content }}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->

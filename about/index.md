@@ -1,32 +1,22 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: 关于我
 image:
   feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  credit: 
+  creditlink: 
 comments: false
-modified: 2016-02-01
+modified: 2018-11-29
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+大家好！
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+我是RY-墨彬（赵瑞阳），
+这里是我的个人博客，非常开心你能来访...
 
-## HPSTR Features:
+创建这个博客是因为，有一天在某个社区看到一位大佬的文章，突然发现下方有一个他的blog地址，心血来潮下就点了进去，发现原来博客是这个样子啊，感觉很有趣，就想着自己也搭建一个博客吧，然后花了一天时间整理出一个现在你所看到的博客，我的想法是用它来记录我的一些生活或者是技术上的一些问题，毕竟我是一名小小的程序员嘛。
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+平凡的我，混迹在大学的校园里，也即将面临什么考研，工作，一大堆麻烦事...额，扯远了,18年是一个忙碌的一年，各种专业课程，还有数不清的考试，但马上也快结束了，时间一直在流逝，我们的青春也逐渐殆尽，抓紧现有的时间，努力朝着自己的梦想去追逐，生活依旧会很精彩，就像某人说的：人生所有的努力，无非是两种结果，见笑或者见效，做好遇见前者的准备，做好遇见后者的从容。即便真的撞得头破血流，也要笑着面对生活。
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+最后希望我的家人，身边的朋友，以及屏幕前的你，开开心心每一天，快快乐乐过一年，嘻嘻嘻。。。
 
-[^1]: Example: *domain.com/category-name/post-title*
